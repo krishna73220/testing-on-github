@@ -1,0 +1,6 @@
+git init
+git add .
+git status
+git commit -m "file added"
+git remote add origin https://github.com/krishna73220/testing-on-github.git
+git push -u origin main
